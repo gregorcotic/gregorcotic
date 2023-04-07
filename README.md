@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SAP HANA SQL 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: gregor.cotic@sip.si
+- 📫 How to reach me: gregor.cotic@icloud.com
 
 <!---
 gregorcotic/gregorcotic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
